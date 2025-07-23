@@ -1,6 +1,6 @@
 # <img src="favicon.png" style="width: 25px; border-radius: 50%;"> Módulo 3 - AE5 - "Perfil superhéroe" <img src="favicon.png" style="width: 25px; border-radius: 50%;">
 
-<!-- ![mockup o entrega del ejercicio][0] -->
+![mockup o entrega del ejercicio][0]
 
 ## 👉 REQUISITOS
 
@@ -36,6 +36,7 @@ Primera letra de mi nombre: V
 - Se han incorporado atributos `currentPower` y `maxPowerEver` para aplicar el método `Math.max()` como solicita la pauta en 3.3
 - Se ha comparado el atributo `superheroe.nombre` que la pauta define explicitamente con una `string` en 1.1 con el tipo `object` y el resultado, como se espera para `typeof superheroe.nombre === 'object'` es falso.
 - Se ha creado la propiedad `nombre` en minúscula para que usar `string.toUpperCase()` tenga sentido.
+- 
 
 ## 📁 ESTRUCTURA DEL PROYECTO
 ```
@@ -52,5 +53,5 @@ Primera letra de mi nombre: V
 ```
 
 <!-- Enlaces referenciados arriba -->
-[0]:./assets/utils/entrega.png
+[0]:./assets/utils/mockup.png
 [2]:favicon.png
